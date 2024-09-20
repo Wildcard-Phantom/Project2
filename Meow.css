@@ -20,5 +20,9 @@ body{
 	background-color: rgba(116,85,30,1.00);
 	margin-top: auto}
 	
-
+#intro{width: 650px; height: 650px; margin: 0 auto; background-color: rgba(120,87,38,1.00); color: rgba(255,255,255,1.00) }
+.up{width: 550px;
+height: 500px;
+margin: 0 auto;
+background-color: rgba(161,139,121,1.00)}
 
