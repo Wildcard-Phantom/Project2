@@ -6,6 +6,9 @@
 
 @media only screen and (min-width: 782px){/*tablets and desktops*/...}
 
+
+@media only screen and (min-width: 750px){/*phones*/}
+
 body{
 	background: url("Images/catpaw.jpg") repeat fixed top left 
 }
