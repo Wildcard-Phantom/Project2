@@ -3,6 +3,9 @@
 *{
 	box-sizing: border-box 
 }
+
+@media only screen and (min-width: 782px){/*tablets and desktops*/...}
+
 body{
 	background: url("Images/catpaw.jpg") repeat fixed top left 
 }
